@@ -2,5 +2,6 @@
 cd ~/power
 export TZ="Asia/Dhaka"
 . build/envsetup.sh
-lunch lineage_RMX1901-bp2a-user
-m evolution
+axion RMX1901 gms pico
+make installclean
+ax -br
