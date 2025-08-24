@@ -5,7 +5,6 @@ cd ~/power
 git config --global user.name "ij_israfil"
 git config --global user.email "israfilkhan494@gmail.com"
 curl -s https://raw.githubusercontent.com/Shravan55555/build_script/refs/heads/main/axion.sh | bash 
-/opt/crave/resync.sh
 }
 
 echo "Syncing Rom and Device Sources..."
