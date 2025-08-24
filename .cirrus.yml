@@ -1,4 +1,4 @@
-env:
+#env:
     #MANIFEST: https://github.com/AxionAOSP/android.git -b lineage-23.0 --git-lfs
     #LOCAL_MANIFEST: https://github.com/shravansayz/local_manifests.git -b axion
 
